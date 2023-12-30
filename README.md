@@ -10,3 +10,6 @@ This comet's heat diffusing into the earth is animated with the **`animation.Fun
 The animation is then showed over a timespan specified by the amount of frames in the animation.FuncAnimation function.
 
 
+![Picture](https://github.com/Critglasses/cometImpact/blob/main/CometImpact.gif?raw=true)
+
+https://github.com/Critglasses/cometImpact/blob/main/CometImpact.gif?raw=true
