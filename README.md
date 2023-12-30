@@ -1,5 +1,5 @@
 # CometImpact
-A simulation of heat diffusion after a comet impacts the earth
+A simulation of heat diffusing after a comet impacts the earth.
 
 The program creates a mesh-grid which is given inital conditions for "heat" and "diffusivity" in each "layer". The layers themselves signify the different depths in the Earth, which have different values for diffusivity, with the last layer signifying outer space. 
 
